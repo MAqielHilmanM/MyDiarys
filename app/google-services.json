@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569027735011",
+    "firebase_url": "https://mydiarys-e1e58.firebaseio.com",
+    "project_id": "mydiarys-e1e58",
+    "storage_bucket": "mydiarys-e1e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569027735011:android:89ec54347faee4207144d6",
+        "android_client_info": {
+          "package_name": "motion.kelas.mydiarys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569027735011-c36q9k50pihq2dpnnhddtho335ksvoku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvPmkFit6h8pZCb3or_xvfh-eKA0bkTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569027735011-c36q9k50pihq2dpnnhddtho335ksvoku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
